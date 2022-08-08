@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService\\WebAPIService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService.Shared\\WebAPIService.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService.Shared\\WebAPIService.Shared.csproj",
+        "projectName": "WebAPIService.Shared",
+        "projectPath": "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService.Shared\\WebAPIService.Shared.csproj",
+        "packagesPath": "C:\\Users\\HPOwner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HPOwner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService\\WebAPIService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService\\WebAPIService.csproj",
+        "projectName": "WebAPIService",
+        "projectPath": "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService\\WebAPIService.csproj",
+        "packagesPath": "C:\\Users\\HPOwner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HPOwner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService.Shared\\WebAPIService.Shared.csproj": {
+                "projectPath": "C:\\Users\\HPOwner\\Desktop\\Umair\\Maersk\\AsyncBackgroundService-main\\To_Be_Shared\\WebAPIService.Shared\\WebAPIService.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Demo.StarterKit": {
+              "target": "Package",
+              "version": "[0.0.3-local, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.4.1, )"
+            },
+            "StarterKit.Logging": {
+              "target": "Package",
+              "version": "[0.0.3-local, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

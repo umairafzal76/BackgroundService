@@ -1,0 +1,30 @@
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\bin\Debug\netcoreapp3.1\WebAPIService.Shared.deps.json
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\bin\Debug\netcoreapp3.1\WebAPIService.Shared.dll
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\bin\Debug\netcoreapp3.1\WebAPIService.Shared.pdb
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\obj\Debug\netcoreapp3.1\WebAPIService.Shared.csproj.AssemblyReference.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\obj\Debug\netcoreapp3.1\WebAPIService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\obj\Debug\netcoreapp3.1\WebAPIService.Shared.AssemblyInfoInputs.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\obj\Debug\netcoreapp3.1\WebAPIService.Shared.AssemblyInfo.cs
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\obj\Debug\netcoreapp3.1\WebAPIService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\obj\Debug\netcoreapp3.1\WebAPIService.Shared.dll
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.External\obj\Debug\netcoreapp3.1\WebAPIService.Shared.pdb
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\bin\Debug\netcoreapp3.1\WebAPIService.Shared.deps.json
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\bin\Debug\netcoreapp3.1\WebAPIService.Shared.dll
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\bin\Debug\netcoreapp3.1\WebAPIService.Shared.pdb
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.csproj.AssemblyReference.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.AssemblyInfoInputs.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.AssemblyInfo.cs
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.dll
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT - Copy (2)\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.pdb
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\bin\Debug\netcoreapp3.1\WebAPIService.Shared.deps.json
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\bin\Debug\netcoreapp3.1\WebAPIService.Shared.dll
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\bin\Debug\netcoreapp3.1\WebAPIService.Shared.pdb
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.csproj.AssemblyReference.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.AssemblyInfoInputs.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.AssemblyInfo.cs
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.dll
+C:\Users\HPOwner\Desktop\Umair\Maersk\AsyncBackgroundService-main\GIT\WebAPIService.Shared\obj\Debug\netcoreapp3.1\WebAPIService.Shared.pdb
